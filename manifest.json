@@ -1,11 +1,11 @@
 {
   "name": "2P Growth Home (IDAC)",
   "slug": "2p-growth-home-idac",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "download_url": "https://raw.githubusercontent.com/doispalitosmkt/idac-preview/wordpress-plugin/2p-growth-home-idac.zip",
   "homepage": "https://github.com/doispalitosmkt/idac-preview/tree/wordpress-plugin",
   "requires": "6.2",
   "requires_php": "7.4",
   "description": "Template independente do Elementor para a página inicial institucional do Instituto DAC.",
-  "changelog": "<h4>0.2.0</h4><p>Versão publicada pelo repositório oficial da Dois Palitos Marketing Digital.</p>"
+  "changelog": "<h4>0.2.1</h4><p>Versão publicada pelo repositório oficial da Dois Palitos Marketing Digital.</p>"
 }
